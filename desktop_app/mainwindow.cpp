@@ -7,7 +7,9 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     ui->radioButton_manual->setChecked(true);
-    //ui->radioButton_setting_climat->setChecked(true);
+    ui->radioButton_setting_climat->setChecked(true);
+    ui->setting_operating_mode_w->setCurrentIndex(0);
+    ui->settings_profile_w->setCurrentIndex(1);
 }
 
 MainWindow::~MainWindow()
