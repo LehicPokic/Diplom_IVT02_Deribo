@@ -514,7 +514,7 @@
          </rect>
         </property>
         <property name="currentIndex">
-         <number>0</number>
+         <number>1</number>
         </property>
         <widget class="QWidget" name="page">
          <widget class="QWidget" name="formLayoutWidget_3">
@@ -568,19 +568,6 @@
             </widget>
            </item>
           </layout>
-         </widget>
-         <widget class="QPushButton" name="pushButton_3">
-          <property name="geometry">
-           <rect>
-            <x>340</x>
-            <y>130</y>
-            <width>80</width>
-            <height>24</height>
-           </rect>
-          </property>
-          <property name="text">
-           <string>Сохранить</string>
-          </property>
          </widget>
         </widget>
         <widget class="QWidget" name="page_4">
@@ -650,6 +637,19 @@
           </property>
          </widget>
         </widget>
+       </widget>
+       <widget class="QPushButton" name="pushButton_3">
+        <property name="geometry">
+         <rect>
+          <x>510</x>
+          <y>260</y>
+          <width>80</width>
+          <height>24</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Сохранить</string>
+        </property>
        </widget>
        <widget class="QWidget" name="">
         <property name="geometry">
