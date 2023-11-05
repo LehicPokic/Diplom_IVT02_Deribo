@@ -27,6 +27,8 @@ private slots:
 
     void on_radioButton_setting_climat_clicked();
 
+    void on_pushButton_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
