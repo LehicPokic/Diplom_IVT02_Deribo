@@ -22,11 +22,6 @@ private slots:
 
     void on_radioButton_profile_clicked();
 
-    void on_radioButton_4_clicked();
-
-    void on_radioButton_setting_param_clicked();
-
-    void on_radioButton_setting_climat_clicked();
 
 private:
     Ui::MainWindow *ui;
