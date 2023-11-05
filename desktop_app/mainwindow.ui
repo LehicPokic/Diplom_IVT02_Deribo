@@ -190,7 +190,7 @@
     <item row="2" column="0" colspan="4">
      <widget class="QStackedWidget" name="setting_operating_mode_w">
       <property name="currentIndex">
-       <number>2</number>
+       <number>0</number>
       </property>
       <widget class="QWidget" name="manual_page">
        <widget class="QWidget" name="formLayoutWidget">
